@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202026860292",
+    "project_id": "signin-sdp",
+    "storage_bucket": "signin-sdp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202026860292:android:395e345f89acdf2fa49a51",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202026860292-ogqoeeb76j4kfoqor2nqae07cg65th50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "8672e426c12eefcf8ccf404381cf7741c157fcdb"
+          }
+        },
+        {
+          "client_id": "202026860292-f7oobiuctc3078dh8990miptpvv6q2bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8LpAJW7Id3e6rPDAXIjEse3g6ivvcaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202026860292-f7oobiuctc3078dh8990miptpvv6q2bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
