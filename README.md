@@ -3,6 +3,13 @@
 
 ## Features
 
+ Login Screen with Firebase Auth and Reset Password.
+ Firebase Auth integration
+ Login with e-mail & password
+ Visual Error Handling
+ Firebase Firestore integration
+ Firebase Storage integration
+
 It is a fully functional app that provides Flutter developers with a coded template for their mobile app projects. It has a great number of popular features:
 
 
