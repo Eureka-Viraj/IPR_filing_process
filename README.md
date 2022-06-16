@@ -1,10 +1,11 @@
-# login
+# An Application to Facilitate IPR Filing for the grassroots community.
 
-A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+It is a fully functional app that provides Flutter developers with a coded template for their mobile app projects. It has a great number of popular features:
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
